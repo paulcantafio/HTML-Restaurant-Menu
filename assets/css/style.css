@@ -53,7 +53,7 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 50%;
     height: auto;
     background-color: white;
 }
@@ -73,6 +73,28 @@ nav a:hover {
     padding: 20px;
     margin: 10px;
 }
+
+.takeout {
+display: inline-block;
+background-color: white;
+border: 5px solid green;
+border-radius: 5px;
+color: darkred;
+font-size: 2em;
+padding: 20px;
+margin: 10px;
+}
+
+.delivery {
+    display: inline-block;
+    background-color: white;
+    border: 5px solid green;
+    border-radius: 5px;
+    color: darkred;
+    font-size: 2em;
+    padding: 20px;
+    margin: 10px;
+    }
 
 table {
     border: 3px solid black;
